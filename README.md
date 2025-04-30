@@ -12,7 +12,7 @@ git add outro_arquivo
 
 2. Adicionando commit
 
-> [!WARN]
+> [!WARNING]
 > Lembre-se de adicionar uma mensagem (_-m_) para evitar dores de cabeça
 
 ```bash
